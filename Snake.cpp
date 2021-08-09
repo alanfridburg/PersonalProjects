@@ -2,6 +2,8 @@
 #include <ncurses.h>
 using namespace std;
 
+#ONLY RUNS ON WINDOWS!
+
 bool gameOver;
 const int width = 20;
 const int height = 20;
